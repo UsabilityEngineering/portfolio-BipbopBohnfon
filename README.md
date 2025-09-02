@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+Hey, I'm Christopher Gemperle, a computer science student at CSU Chico. I like shapes and colors, and think that computers are cool.
 
 ## UX Team Project
 
