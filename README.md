@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Gamified Hacking with the Flipper Zero](journal/)
