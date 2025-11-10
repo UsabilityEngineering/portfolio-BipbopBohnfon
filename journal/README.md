@@ -21,6 +21,8 @@ I have been playing around with the <a href="https://flipperzero.one/">Flipper Z
 
 ## But is it Worth it?
 YES! Yes, absolutely. The features included in the Flipper, paired with the relatively low price, make it an excellent pen-testing tool, as well as a decent swiss-army knife that can be used to solve problems with electronic devices if you are desperate enough. 
+
+https://github.com/user-attachments/assets/64b6387f-4efd-458c-8993-f2cb8a53bbe0
  
     "By line" with your name and the date of the journal entry
     Image(s) or videos to help illustrate your narrative of the interaction. These should be real images/videos of the interaction that show the process. You may "recreate" the interaction if you wish and you can add markup or other editing if it makes it easier to communicate what is happening to the reader.
